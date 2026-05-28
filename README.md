@@ -1,17 +1,76 @@
-# finance_analysis_app
+# Smart Textile ERP System Demo
 
-A new Flutter project.
+Smart Textile ERP System Demo is a demo ERP application designed for textile businesses.  
+The project focuses on managing key business processes such as inventory tracking, order management, cost analysis, financial analysis, and AI-supported product price prediction.
 
-## Getting Started
+This system was developed as a demo project to show how ERP logic can be adapted to a smart textile business scenario.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- User-friendly dashboard structure
+- Inventory tracking
+- Product and stock management
+- Order management
+- Cost analysis
+- Financial performance analysis
+- AI-supported product price prediction
+- Basic business decision support
+- Demo data usage for testing and presentation purposes
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## Project Purpose
+
+The main purpose of this project is to create a demo ERP system for textile businesses and support decision-making with financial analysis and AI-based product price prediction.
+
+The system helps users analyze product-related costs, monitor stock information, manage orders, and estimate product prices more effectively.
+
+---
+
+## Main Modules
+
+### Inventory Management
+
+This module allows tracking product stocks and inventory-related information.  
+It helps businesses monitor available stock levels and manage product data more easily.
+
+### Order Management
+
+This module is responsible for managing customer orders and related business processes.  
+It provides a structured way to follow order information in the system.
+
+### Cost Analysis
+
+This module helps analyze product costs and business expenses.  
+It supports better pricing and financial decision-making.
+
+### Financial Analysis
+
+This module provides financial insights about the business.  
+It can be used to evaluate profitability, cost structure, and general financial performance.
+
+### AI-Supported Price Prediction
+
+This module focuses on predicting product prices with AI-supported analysis.  
+It aims to support smarter pricing decisions by using product and cost-related data.
+
+---
+
+## Technologies Used
+
+- Java / Android Studio
+- XML UI Design
+- Local data handling
+- Basic AI-supported analysis logic
+- ERP-style modular system design
+
+---
+
+## Installation and Usage
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/oguzhannazli/Smart-Textile-ERP-System-Demo.git
